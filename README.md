@@ -10,3 +10,8 @@ Next Steps:
 - Bring in favorites/bookmarks?
 - revisit page-based data
 - more cleanup
+
+Screenshots:
+![A screenshot of a big Obsidian graph](https://github.com/thegrandblooms/Chrome-History-Graph/blob/2009de482bae8a2310079d9bb3348f14260bff60/Screenshot_4.png)
+![A screenshot highlighting a node about shopping for ebike batteries with its connections to other nodes ](https://github.com/thegrandblooms/Chrome-History-Graph/blob/2009de482bae8a2310079d9bb3348f14260bff60/Screenshot_1.png)
+![A screenshot showing how when you zoom in, you can see the names of all sessions and domains](https://github.com/thegrandblooms/Chrome-History-Graph/blob/main/Screenshot_3.png)
